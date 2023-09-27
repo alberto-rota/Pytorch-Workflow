@@ -1,1 +1,1 @@
-# cifar10-gpu
+# Pytorch Sample Workflow
